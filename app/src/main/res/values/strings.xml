@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="my_tab">我的标签</string>
+    <string name="add">增加</string>
+    <string name="tab_hint">每人最多可以自定义%d个标签</string>
+
+    <string-array name="default_table">
+        <item>大长腿</item>
+        <item>吃货</item>
+        <item>健身达人</item>
+        <item>制服控</item>
+        <item>御姐</item>
+        <item>舞蹈爱好者</item>
+    </string-array>
+
+    <string-array name="character">
+        <item>大长腿</item>
+        <item>御姐</item>
+        <item>制服控</item>
+        <item>萌妹纸</item>
+        <item>知性</item>
+        <item>OL</item>
+        <item>轻熟女</item>
+        <item>阳光</item>
+        <item>乐观</item>
+    </string-array>
+
+    <string-array name="interest">
+        <item>篮球</item>
+        <item>乒乓球</item>
+        <item>敲代码</item>
+        <item>吃睡</item>
+        <item>加班</item>
+        <item>游戏</item>
+        <item>社交</item>
+        <item>学习</item>
+        <item>看电视</item>
+        <item>音乐</item>
+    </string-array>
+</resources>
